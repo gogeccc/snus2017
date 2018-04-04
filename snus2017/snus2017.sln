@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmDisplay", "AlarmDisplay\AlarmDisplay.csproj", "{5C9FC239-1CF0-431D-978E-420D072E1B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sharedLib", "sharedLib\sharedLib.csproj", "{2417B943-45FE-4862-9CFA-B3975BD5634E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScadaCore", "ScadaCore\ScadaCore.csproj", "{B7FD7B24-D512-4560-B94C-003AE0ADD572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9FC239-1CF0-431D-978E-420D072E1B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9FC239-1CF0-431D-978E-420D072E1B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9FC239-1CF0-431D-978E-420D072E1B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9FC239-1CF0-431D-978E-420D072E1B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2417B943-45FE-4862-9CFA-B3975BD5634E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2417B943-45FE-4862-9CFA-B3975BD5634E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2417B943-45FE-4862-9CFA-B3975BD5634E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2417B943-45FE-4862-9CFA-B3975BD5634E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FD7B24-D512-4560-B94C-003AE0ADD572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FD7B24-D512-4560-B94C-003AE0ADD572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FD7B24-D512-4560-B94C-003AE0ADD572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FD7B24-D512-4560-B94C-003AE0ADD572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A51EDC5B-6E22-49F4-A7D3-8FB3C83A45B8}
+	EndGlobalSection
+EndGlobal
